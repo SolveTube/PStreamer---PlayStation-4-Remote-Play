@@ -36,7 +36,9 @@ Aşağıdaki uyarıda "Tamam" ı seçerek PStreamer.apk dosyasını saklamayı s
 
 PStreamer'ı indirerek, sağdaki bağlantıda belirtilen hüküm ve koşulları kabul etmiş olursunuz. Burada belirtilen şartlara uyulmaması, erişiminizin sonlandırılmasına neden olabilir.
 Bu indirme, yazılımın hem ücretsiz deneme sürümü hem de tam sürümü olarak hizmet eder.
-
 # İndir
-Yakında geliyor
+Releases bölümünden şimdi son sürüm indirilebilir.
+
+# Satın Alma
+Tam sürümün anahtarını açmak için  https://www.pstreamer.app/purchase/ buraya göz gezdirin
 
